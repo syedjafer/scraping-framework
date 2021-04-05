@@ -1,0 +1,31 @@
+0,Allergy
+1,Anesthiology
+2,Cardiology
+3,Combined Specialty
+4,Dermatology
+5,Emergency Medicine
+6,Endocrinology, Diabetes, & Metabolism
+7,Family Medicine
+8,Gastroenterology
+9,General Practice
+10,Infectious Disease
+11,Internal Medicine
+12,Medical Genetics
+13,Nephrology
+14,Neurological Surgery
+15,Neurology
+16,Obstetrics & Gynecology
+17,Oncology (Cancer)
+18,Ophthalmology
+19,Orthopedics
+20,Other
+21,Otolaryngology
+22,Pathology
+23,Pediatrics
+24,Physical Medicine & Rehabilitation
+25,Plastic Surgery
+26,Preventive Medicine
+27,Psychiatry
+28,Radiology
+29,Surgery
+30,Urology
